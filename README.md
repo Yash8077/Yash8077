@@ -14,11 +14,12 @@
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash8077&theme=discord" alt="yash8077" /></a> </p>
   
 
-  
+<!-- 
 <h3 margin-top:50px>Connect with me:</h3>
 <div align="center">
 <p margin-right="10px 30px 100px 30px">
 <!-- <a href="https://twitter.com/username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yash mishra" height="30" width="40" /></a> -->
+<!--
 <a href="https://www.linkedin.com/in/vanshchaurasiya24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vanshchaurasiya24" height="30" width="40" /></a>
 <a href="https://instagram.com/vxnshhh.xxiv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/vxnshhh.xxiv" height="30" width="40" /></a>
 <a href="https://medium.com/@vanshchaurasiya1557" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@vanshchaurasiya1557" height="30" width="40" /></a>
@@ -28,6 +29,7 @@
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/vxnshhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/vxnshhh" height="30" width="40" /></a>
 </p>
 </div>
+-->
 ## Languages and Tools: <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40" height="30px">
 <div align="center">
   
